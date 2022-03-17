@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://bgh:0000@cluster0.fubaz.mongodb.net/project?retryWrites=true&w=majority",
+    "secret":"hello"
+}
